@@ -23,7 +23,7 @@ The interactive dashboard provides an overview of player and team performance an
 
 ### Dashboard Preview
 
-![FIFA World Cup 2026 Dashboard](dashboard.png)
+![FIFA World Cup 2026 Dashboard](FIFA2026.png)
 
 ## 🔎 Key Analysis
 
